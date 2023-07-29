@@ -36,3 +36,52 @@
     transform: rotate(360deg);
   }
 }
+.sudents{
+  border: solid green;
+  /* height: 200px; */
+  width: 50%;
+  margin: 2px; 
+
+}
+.name{
+  border: solid blue;
+  height: 40px;
+  width: 100%;
+  background-color: #61dafb;
+ 
+}
+.bio{
+  border: solid black;
+  height: auto;
+  width: 100%;
+  margin-top: 2px;
+  background-color: antiquewhite;
+}
+.score{
+  border: solid black;
+  height: 200px;
+  width: 50%;
+  margin: 2px;
+
+}
+.dateSore{
+  border: solid blue;
+  height: 40px;
+  width: 100%;
+  background-color: #61dafb;
+  display: flex;
+}
+.scores{
+  border: solid black;
+  height: 150px;
+  width: 100%;
+  display: block;
+  background-color: antiquewhite;
+  display: flex;
+}
+.display{
+  border: solid red;
+  height: auto;
+  width: auto;
+  display: flex;
+}
