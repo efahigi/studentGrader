@@ -73,6 +73,7 @@ function App() {
       <div className='display'>
       <Student student={studentData.students} />
       <Score score ={studentData.students}/>
+      
       </div>
     </div>
   );

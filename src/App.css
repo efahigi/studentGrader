@@ -37,50 +37,42 @@
   }
 }
 .sudents{
-  border: solid green;
-  /* height: 200px; */
+ 
   width: 50%;
   margin: 2px; 
 
 }
 .name{
-  border: solid blue;
-  height: 40px;
+  height: 70px;
   width: 100%;
   background-color: #61dafb;
  
 }
 .bio{
-  border: solid black;
+ 
   height: auto;
   width: 100%;
   margin-top: 2px;
   background-color: antiquewhite;
 }
 .score{
-  border: solid black;
   height: 200px;
   width: 50%;
-  margin: 2px;
-
 }
-.dateSore{
-  border: solid blue;
+.dateSore1{
   height: 40px;
   width: 100%;
-  background-color: #61dafb;
-  display: flex;
 }
-.scores{
-  border: solid black;
-  height: 150px;
+.dateSore2{
+  height: 40px;
   width: 100%;
-  display: block;
-  background-color: antiquewhite;
-  display: flex;
-}
+} 
+ .dateSore2{
+  height: 40px;
+  width: 100%;
+} 
 .display{
-  border: solid red;
+  border: solid black;
   height: auto;
   width: auto;
   display: flex;
